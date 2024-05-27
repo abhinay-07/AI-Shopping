@@ -1,10 +1,10 @@
 # AI-Shopping
 Transforming the shopping experience with AI! Features include personalized recommendations, optimized search, smart cart management, and a virtual assistant. Technologies: TensorFlow, SpaCy, Pandas, Python, React, MySQL.  #AI #Ecommerce #Innovation
 
-Overview
+	Overview
 This project leverages artificial intelligence to transform the shopping experience. It integrates multiple advanced technologies to offer personalized recommendations, optimized search results, smart cart management, and an interactive virtual shopping assistant.
 
-Features:
+	Features:
 -Personalized Recommendations
 -Uses machine learning algorithms to suggest products based on user preferences and browsing history.
 -Optimized Search
@@ -22,11 +22,11 @@ Machine Learning:
 Natural Language Processing:
 -SpaCy
 -NLTK
-Frontend:
+	Frontend:
 React
 HTML
 CSS
-Usage:
+	Usage:
 -Register and log in to the application.
 -Use the search bar to find products.
 -Add products to the cart to get AI-driven suggestions.
